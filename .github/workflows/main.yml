@@ -9,6 +9,11 @@ jobs:
   fetch-file:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          
       - name: Download file
         run: |
           curl -o invaders.json https://pnote.eu/projects/invaders/map/invaders.json
