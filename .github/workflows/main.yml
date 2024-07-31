@@ -1,0 +1,27 @@
+name: Fetch File from URL
+
+on:
+  schedule:
+    - cron: '1 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+
+      - name: Download file
+        run: |
+          curl -o invaders.json https://pnote.eu/projects/invaders/map/invaders.json
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add invaders.json
+          git commit -m "Automated file download" || echo "No changes to commit"
+          git push origin HEAD:main
