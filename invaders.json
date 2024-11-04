@@ -2177,7 +2177,7 @@
   },
   {
     "id": "BTA_24",
-    "status": "damaged",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/bta_24/",
     "obf_lat": 42.6942460327,
@@ -3908,8 +3908,8 @@
     "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/djba_55/",
-    "obf_lat": 33.8047773618,
-    "obf_lng": 10.9698859116
+    "obf_lat": 33.8058765618,
+    "obf_lng": 10.9728122115
   },
   {
     "id": "DJBA_56",
@@ -5473,7 +5473,7 @@
   },
   {
     "id": "HK_07",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/hk_07/",
     "obf_lat": 22.2760983632,
@@ -13530,10 +13530,10 @@
   {
     "id": "MRAK_01",
     "status": "OK",
-    "hint": null,
+    "hint": "There are 3 entrances, don't mix them up or you'll get lost!",
     "instagramUrl": "https://www.instagram.com/explore/tags/mrak_01/",
-    "obf_lat": 31.6202996796,
-    "obf_lng": -7.9816411382
+    "obf_lat": 31.6207931142,
+    "obf_lng": -7.9847965265
   },
   {
     "id": "MRAK_02",
@@ -18545,7 +18545,7 @@
   },
   {
     "id": "PA_360",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_360/",
     "obf_lat": 48.8639362324,
@@ -20241,7 +20241,7 @@
   },
   {
     "id": "PA_572",
-    "status": "hidden",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_572/",
     "obf_lat": 48.8564043228,
@@ -24873,7 +24873,7 @@
   },
   {
     "id": "PA_1151",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_1151/",
     "obf_lat": 48.8642478256,
@@ -27841,7 +27841,7 @@
   },
   {
     "id": "PA_1522",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_1522/",
     "obf_lat": 48.8778294883,
@@ -27857,7 +27857,7 @@
   },
   {
     "id": "PA_1524",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_1524/",
     "obf_lat": 48.8688445284,
@@ -28537,7 +28537,7 @@
   },
   {
     "id": "PRT_15",
-    "status": "destroyed",
+    "status": "damaged",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/prt_15/",
     "obf_lat": -31.9851206458,
