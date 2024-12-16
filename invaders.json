@@ -105,7 +105,7 @@
   },
   {
     "id": "AMS_04",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/ams_04/",
     "obf_lat": 52.3753987086,
@@ -2145,7 +2145,7 @@
   },
   {
     "id": "BRN_14",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/brn_14/",
     "obf_lat": 46.9510052233,
@@ -3817,7 +3817,7 @@
   },
   {
     "id": "CLR_39",
-    "status": "OK",
+    "status": "damaged",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/clr_39/",
     "obf_lat": 45.7760169483,
@@ -12729,7 +12729,7 @@
   },
   {
     "id": "MIA_03",
-    "status": "damaged",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/mia_03/",
     "obf_lat": 25.792395798,
@@ -18185,7 +18185,7 @@
   },
   {
     "id": "PA_255",
-    "status": "destroyed",
+    "status": "damaged",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_255/",
     "obf_lat": 48.8614476853,
@@ -21521,7 +21521,7 @@
   },
   {
     "id": "PA_672",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_672/",
     "obf_lat": 48.8643791272,
@@ -21817,7 +21817,7 @@
   },
   {
     "id": "PA_709",
-    "status": "destroyed",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_709/",
     "obf_lat": 48.8762009508,
@@ -22113,7 +22113,7 @@
   },
   {
     "id": "PA_746",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_746/",
     "obf_lat": 48.8644110467,
@@ -22721,7 +22721,7 @@
   },
   {
     "id": "PA_822",
-    "status": "OK",
+    "status": "damaged",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_822/",
     "obf_lat": 48.8584289963,
@@ -25321,7 +25321,7 @@
   },
   {
     "id": "PA_1147",
-    "status": "OK",
+    "status": "damaged",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_1147/",
     "obf_lat": 48.8731190159,
