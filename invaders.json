@@ -5481,7 +5481,7 @@
   },
   {
     "id": "GRN_10",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/grn_10/",
     "obf_lat": 45.1844933747,
@@ -7049,7 +7049,7 @@
   },
   {
     "id": "IST_18",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/ist_18/",
     "obf_lat": 41.03437152,
@@ -19209,7 +19209,7 @@
   },
   {
     "id": "PA_383",
-    "status": "damaged",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_383/",
     "obf_lat": 48.8664455225,
@@ -24081,7 +24081,7 @@
   },
   {
     "id": "PA_992",
-    "status": "OK",
+    "status": "destroyed",
     "hint": "Top floor terrasse that used to belong to the newspaper Lib\u00e9ration",
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_992/",
     "obf_lat": 48.8656392063,
