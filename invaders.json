@@ -3009,7 +3009,7 @@
   },
   {
     "id": "BXL_34",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/bxl_34/",
     "obf_lat": 50.8380564026,
@@ -5737,7 +5737,7 @@
   },
   {
     "id": "GRN_42",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/grn_42/",
     "obf_lat": 45.1949647998,
@@ -8105,7 +8105,7 @@
   },
   {
     "id": "LA_84",
-    "status": "destroyed",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/la_84/",
     "obf_lat": 34.1026155376,
@@ -8193,7 +8193,7 @@
   },
   {
     "id": "LA_95",
-    "status": "destroyed",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/la_95/",
     "obf_lat": 34.0404812438,
@@ -12753,7 +12753,7 @@
   },
   {
     "id": "MIA_06",
-    "status": "OK",
+    "status": "damaged",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/mia_06/",
     "obf_lat": 25.7745291517,
@@ -13097,7 +13097,7 @@
   },
   {
     "id": "MIA_49",
-    "status": "destroyed",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/mia_49/",
     "obf_lat": 25.7708785207,
@@ -13281,7 +13281,7 @@
   },
   {
     "id": "MIA_72",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/mia_72/",
     "obf_lat": 25.7939890221,
@@ -16569,7 +16569,7 @@
   },
   {
     "id": "PA_53",
-    "status": "damaged",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_53/",
     "obf_lat": 48.8368425914,
@@ -16841,7 +16841,7 @@
   },
   {
     "id": "PA_87",
-    "status": "destroyed",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_87/",
     "obf_lat": 48.8373920285,
@@ -27073,7 +27073,7 @@
   },
   {
     "id": "PA_1366",
-    "status": "destroyed",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_1366/",
     "obf_lat": 48.8514618866,
@@ -28350,6 +28350,22 @@
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_1525/",
     "obf_lat": 48.8312959713,
     "obf_lng": 2.3538745918
+  },
+  {
+    "id": "PA_1529",
+    "status": "OK",
+    "hint": "Totoro 2025",
+    "instagramUrl": "https://www.instagram.com/explore/tags/pa_1529/",
+    "obf_lat": 48.8579147766,
+    "obf_lng": 2.3558801278
+  },
+  {
+    "id": "PA_1530",
+    "status": "OK",
+    "hint": "Chu and Chibi Totoro",
+    "instagramUrl": "https://www.instagram.com/explore/tags/pa_1530/",
+    "obf_lat": 48.8615534219,
+    "obf_lng": 2.3636505631
   },
   {
     "id": "PAU_01",
