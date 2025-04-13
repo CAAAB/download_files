@@ -18777,7 +18777,7 @@
   },
   {
     "id": "PA_315",
-    "status": "OK",
+    "status": "damaged",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_315/",
     "obf_lat": 48.8300623665,
@@ -18841,7 +18841,7 @@
   },
   {
     "id": "PA_323",
-    "status": "OK",
+    "status": "hidden",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_323/",
     "obf_lat": 48.8543792329,
@@ -23265,7 +23265,7 @@
   },
   {
     "id": "PA_876",
-    "status": "damaged",
+    "status": "OK",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_876/",
     "obf_lat": 48.8264598851,
@@ -27025,7 +27025,7 @@
   },
   {
     "id": "PA_1346",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_1346/",
     "obf_lat": 48.8490959306,
