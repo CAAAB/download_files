@@ -18841,7 +18841,7 @@
   },
   {
     "id": "PA_323",
-    "status": "hidden",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/pa_323/",
     "obf_lat": 48.8543792329,
@@ -33257,7 +33257,7 @@
   },
   {
     "id": "WN_33",
-    "status": "OK",
+    "status": "destroyed",
     "hint": null,
     "instagramUrl": "https://www.instagram.com/explore/tags/wn_33/",
     "obf_lat": 48.1980928068,
